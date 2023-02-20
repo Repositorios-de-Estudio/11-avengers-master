@@ -2,4 +2,4 @@
 
 * Investigar la casa de los dibujos
 * Investigar a batman
-* Cpturar a Red Skull
+* Capturar a Red Skull
